@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/ansible-%23075A9C.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+ 
 
   
 </p>
@@ -66,14 +67,13 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanineAzzabi&theme=monokai" width="24%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanineAzzabi&theme=monokai" width="24%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanineAzzabi&theme=monokai" width="24%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanineAzzabi&theme=monokai&utcOffset=1" width="24%">
 </p>
 
 ---
 
+<h3>⚠ Note: The Top Languages section is merely a representation of the languages used in my public repositories and does not indicate my proficiency or experience level.</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
